@@ -1,17 +1,7 @@
-# BERYL 観測アーカイブ
+# BERYL
 
-『転生先は観測圏外』の読者向け観測アーカイブです。現在は BERYL 風の観測端末を起動するプレビューを収録しています。
+**VERIDIAN / OBSERVATION ARCHIVE**
 
-## ローカル起動
+*Records from beyond the observation perimeter.*
 
-Node.js（npm）と Python 3 が必要です。リポジトリ直下で次を実行します。
-
-```sh
-npm run dev
-```
-
-ブラウザーで [http://127.0.0.1:8000/](http://127.0.0.1:8000/) を開きます。
-
-## 静的配信
-
-`index.html`、`style.css`、`main.js` がそのまま配信ファイルです。依存パッケージのインストールやビルドは不要です。GitHub Pages で公開する場合は、配信元に `main` ブランチのルートを指定します。
+Observations by Akatoki. Analysis by RUVY.
